@@ -1,0 +1,31 @@
+/************DEFAULT CSS**************/
+
+*  
+    { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+}
+
+.clear {
+	clear: both;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
+
+body 
+    { 
+    font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif; 
+    background: url(/images/wallpaper.png) repeat; 
+    color: #000000;     
+    text-align:center; 
+} 
+
+/************DEFAULT CSS END**************/
